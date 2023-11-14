@@ -1,0 +1,9 @@
+{
+    "proxies": [
+      {
+        "path": "/api",
+        "url": "http://nrweb.com.mx/api_prueba/examen/parcial3.php"
+      }
+    ]
+  }
+  
